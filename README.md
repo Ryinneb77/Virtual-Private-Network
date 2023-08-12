@@ -65,10 +65,6 @@ Once ProtonVPN is downloaded and installed, open the application. Then make a co
 <img src="https://i.imgur.com/Pc2XBOQ.png" height="80%" width="80%" alt="6."/>
 </p>
 
-<p>
-<img src="https://i.imgur.com/f7p0ScE.png" height="80%" width="80%" alt="7."/>
-</p>
-
 Once you're connected to ProtonVPN, go back to WhatIsMyAddress and look at the changes. Notice that the IP address is different and the location. (138.199.21.217 in Tokyo, Japan).
 
 <p>
